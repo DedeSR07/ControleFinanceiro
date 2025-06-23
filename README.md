@@ -37,14 +37,14 @@ Este projeto consiste em um **Dashboard Financeiro Interativo** desenvolvido no 
 
 ## 🖼️ Capturas de Tela
 
-### 📋 Base de Dados
-![Base de Dados](./Imagens/dados.jpg)
+### Base de Dados
+-📋![Base de Dados](./Imagens/dados.jpg)
 
-### 📊 Tabela Dinâmica
-![Tabela Dinâmica](./Imagens/tabeladinamica.jpg)
+### Tabela Dinâmica
+-📊![Tabela Dinâmica](./Imagens/tabeladinamica.jpg)
 
-### 📈 Dashboard Financeiro
-![Dashboard](./Imagens/dashboard.jpg)
+### Dashboard Financeiro
+-📈![Dashboard](./Imagens/dashboard.jpg)
 
 ---
 
