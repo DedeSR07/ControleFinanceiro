@@ -1,6 +1,6 @@
 # 📊 Projeto de Controle Financeiro no Excel
 
-Este projeto consiste em um **Dashboard Financeiro Interativo** desenvolvido no **Microsoft Excel**, com foco em controle de receitas, despesas e saldo mensal. Ideal para fins educacionais, prática com gráficos e análises de dados pessoais ou empresariais.
+Este projeto consiste em um **Dashboard Financeiro Interativo** desenvolvido no **Microsoft Excel**, com foco em controle de receitas, despesas e saldo mensal. 
 
 ---
 
@@ -37,14 +37,9 @@ Este projeto consiste em um **Dashboard Financeiro Interativo** desenvolvido no 
 
 ## 🖼️ Capturas de Tela
 
-### Base de Dados
--📋![Base de Dados](./Imagens/dados.jpg)
-
-### Tabela Dinâmica
--📊![Tabela Dinâmica](./Imagens/tabeladinamica.jpg)
-
-### Dashboard Financeiro
--📈![Dashboard](./Imagens/dashboard.jpg)
+- 🗂️ [Base de Dados](./Imagens/dados.jpg)
+- 📊 [Tabela Dinâmica](./Imagens/tabeladinamica.jpg)
+- 📈 [Dashboard](./Imagens/dashboard.jpg)
 
 ---
 
