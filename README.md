@@ -42,7 +42,16 @@ Este projeto consiste em um **Dashboard Financeiro Interativo** desenvolvido no 
 - 📈 [Dashboard](./Imagens/dashboard.jpg)
 
 ---
+## 👨‍💻 Autor
 
+**David Souza Ribeiro**  
+
+---
+
+## 📝 Observações
+
+Este projeto faz parte de um portfólio pessoal com foco em análise de dados com Excel e Power BI.  
+Os dados são fictícios e foram gerados apenas para fins de estudo.
 
 
 
